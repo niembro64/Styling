@@ -1,0 +1,31 @@
+h1{
+    color: white;
+    background-color: black;
+    font-family: cursive;
+    font-weight: lighter;
+    padding: 3px;
+    padding-left: 15px;
+
+}
+
+#cloudcolor {
+    color: cyan;
+}
+
+h2{
+    background-color: indigo;
+    color: white;
+    font-style: italic;
+    font-family: cursive;
+    font-weight: lighter;
+    text-align: center;
+}
+
+h3{
+    background-color: lightblue;
+    font-family: cursive;
+    text-align: right;
+    text-decoration: underline;
+    color: indigo;
+    padding-right: 15px;
+}
